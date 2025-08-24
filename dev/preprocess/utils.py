@@ -1,8 +1,8 @@
 import pandas as pd
 
 
-def create_obito (sinasc: pd.DataFrame,
-                  merger: pd.DataFrame) -> pd.DataFrame:
+def create_obito(sinasc: pd.DataFrame,
+                 merger: pd.DataFrame) -> pd.DataFrame:
 
     list_ = merger['index_1'].to_list()
 
