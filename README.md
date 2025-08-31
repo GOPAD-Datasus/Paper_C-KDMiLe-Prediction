@@ -7,7 +7,7 @@
 > This implementation predicts infant mortality using a dataset obtained from probabilistic entity matching of SINASC and SIM databases. The data has its columns and rows filtered, values are scaled with StandardScaler, then SMOTE is applied to balance classes. To perform the prediction, Logistic Regression, XGBoost, Decision Tree and Support Vector are used and compared. 
 
 
-**"Combating Class Imbalance for Infant Mortality Risk Modeling: Resampling Strategies in Brazil's Unified Health System"**
+**"Prediction of Infant Mortality in Brazil using Machine Learning and Entity Matching on Brazilian Unified Health System's Data"**
 
 
 Authors: Morsoleto, R. et al.
